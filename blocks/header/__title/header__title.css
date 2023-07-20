@@ -1,0 +1,12 @@
+.header__title {
+    max-width: 410px;
+    font-family: Roboto;
+    font-size: 63px;
+    font-weight: 400;
+    line-height: 66px;
+    letter-spacing: 0em;
+    text-align: left;
+    padding-top: 69px;
+    margin:0 0 36px 0;
+    color: #fff;
+}

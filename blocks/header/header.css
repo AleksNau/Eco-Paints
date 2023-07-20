@@ -1,0 +1,6 @@
+.header {
+    padding: 23px 42px 47px;
+    background-image: url(./images/header-image.jpg);
+    min-height: 783px;
+    box-sizing: border-box;
+}
