@@ -47,3 +47,11 @@
 @import url(../blocks/samples/__subtitle/samples__subtitle.css);
 @import url(../blocks/samples/__title/samples__title.css);
 @import url(../blocks/samples/__image/samples__image.css);
+
+@import url(../blocks/interier/interier.css);
+@import url(../blocks/interier/__info/interier__info.css);
+@import url(../blocks/interier/__item/interier__item.css);
+@import url(../blocks/interier/__list/interier__list.css);
+@import url(../blocks/interier/__subtitle/interier__subtitle.css);
+@import url(../blocks/interier/__title/interier__title.css);
+@import url(../blocks/interier/__subtext/interier__subtext.css);

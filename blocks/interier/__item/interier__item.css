@@ -1,0 +1,8 @@
+.interier__item {
+    background-image: url(./images/first.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 269px;
+    height: 269px;
+    box-sizing: border-box;
+}
