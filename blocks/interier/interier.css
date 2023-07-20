@@ -1,4 +1,7 @@
 .interier {
     display: flex;
     gap: 8px;
+    justify-content: center;
+    padding-top: 235px;
+    box-sizing: border-box;
 }
