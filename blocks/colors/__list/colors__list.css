@@ -1,0 +1,10 @@
+.colors__list {
+    list-style-type: none;
+    padding: 76px 0 0 0;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    max-width: 1087px;
+    gap: 37px 63px;
+}

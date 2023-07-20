@@ -1,0 +1,8 @@
+.features__list {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    max-width: 978px;
+    margin: 0 auto;
+}
