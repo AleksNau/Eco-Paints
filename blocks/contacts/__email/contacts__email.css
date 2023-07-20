@@ -1,3 +1,5 @@
 .contacts__email {
-    
+    display: flex;
+    justify-content: space-around;
+    padding-top: 116px;
 }

@@ -1,3 +1,14 @@
 .contacts__menu {
-    
+    list-style-type: none;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.contacts__menu:first-child{
+    margin-right: 50px;
+}
+
+.contacts__menu:last-child{
+    margin-left: 26px;
 }
