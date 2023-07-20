@@ -1,6 +1,7 @@
 .colors__list {
     list-style-type: none;
-    padding: 76px 0 0 0;
+    box-sizing: border-box;
+    padding: 76px 0 45px 0;
     margin: 0 auto;
     display: grid;
     grid-template-columns: repeat(5, 1fr);

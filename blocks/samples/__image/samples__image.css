@@ -1,0 +1,8 @@
+.samples__image {
+    background-image: url(../images/samples.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 546px;
+    height: 546px;
+    box-sizing: border-box;
+}

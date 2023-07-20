@@ -26,3 +26,24 @@
 @import url(../blocks/colors/__price/colors__price.css);
 @import url(../blocks/colors/__title/colors__title.css);
 @import url(../blocks/colors/__list/colors__list.css);
+
+@import url(../blocks/mission/mission.css);
+@import url(../blocks/mission/__paragraph/mission__paragraph.css);
+@import url(../blocks/mission/__title/mission__title.css);
+
+@import url(../blocks/purifies/purifies.css);
+@import url(../blocks/purifies/__image/purifies__image.css);
+@import url(../blocks/purifies/__info/purifies__info.css);
+@import url(../blocks/purifies/__subtitle/purifies__subtitle.css);
+@import url(../blocks/purifies/__title/purifies__title.css);
+
+@import url(../blocks/no-block/no-block.css);
+@import url(../blocks/no-block/__item/no-block__item.css);
+@import url(../blocks/no-block/__list/no-block__list.css);
+@import url(../blocks/no-block/__title/no-block__title.css);
+
+@import url(../blocks/samples/samples.css);
+@import url(../blocks/samples/__info/samples__info.css);
+@import url(../blocks/samples/__subtitle/samples__subtitle.css);
+@import url(../blocks/samples/__title/samples__title.css);
+@import url(../blocks/samples/__image/samples__image.css);

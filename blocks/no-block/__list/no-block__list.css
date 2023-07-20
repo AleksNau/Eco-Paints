@@ -1,0 +1,6 @@
+.no-block__list {
+    list-style-type: none;
+    box-sizing: border-box;
+    padding: 39px 0 24px 0;
+    margin: 0 auto;
+}
